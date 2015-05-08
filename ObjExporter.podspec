@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/JefferyJeffery/ObjExporter" }
 
-  s.source_files = ''
+  s.source_files = '/'
   s.public_header_files = '*.h'
   
   s.requires_arc = true
